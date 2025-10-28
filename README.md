@@ -67,14 +67,6 @@ Passionné par la création d'applications web et mobile modernes, performantes 
 
 ---
 
-## 📊 GitHub Stats
-
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 🌟 Projets Récents
 
 - 🛍️ **Zakaria Shop** - Application e-commerce mobile avec React Native & Zustand
